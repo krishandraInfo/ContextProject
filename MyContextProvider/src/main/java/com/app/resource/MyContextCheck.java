@@ -32,6 +32,7 @@ public class MyContextCheck {
 		System.out.println(header.getLength());
 		System.out.println(header.getMediaType());
 		
+		System.out.println("sample");
 		return "Got!";
 	}
 
